@@ -1,8 +1,6 @@
 //John David
-//UMSL CS 2700
-//jdcvd@mail.umsl.edu
 //
-//Restoring Division Algorithm Project
+//Restoring Division Algorithm with bitset STL
 
 #include <iostream>
 #include <bitset>
