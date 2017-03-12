@@ -1,8 +1,6 @@
 //John David
-//UMSL CS 2700
-//jdcvd@mail.umsl.edu
 //
-//Booth's Algorithm Project
+//Booth's Algorithm with Bitset STL
 
 #include <iostream>
 #include <bitset>
