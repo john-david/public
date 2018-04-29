@@ -8,4 +8,4 @@ The C++ bitset STL library is used.  The library's basic functionality made prog
 
 These programs are for demonstration purposes only.
 
-The ipython notebook was part of a series of projects for a Machine Learning class. The notebook looks at the perceptron algortithm under a series of problems, from easily classified data to data sets that are impossible to split accurately in 2D.
+The perceptron jupyter notebook was part of a series of projects for a Machine Learning class. The notebook looks at the perceptron algortithm under a series of problems, from easily classified data to data sets that are impossible to split accurately in 2D.
