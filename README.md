@@ -13,8 +13,8 @@ and division algorithms extremely easy to implement.
 ________
 
 The perceptron jupyter notebook was part of a series of projects for a Machine Learning class. The notebook looks at the 
-perceptron algortithm under a series of problems, from easily classified data to data sets that are impossible to split 
-accurately in 2D.
+perceptron algortithm under a series of randomly generated x/y coordinate pair data sets, from easily classified data to data 
+sets that are impossible to split in 2D.
 
 ________
 
