@@ -3,9 +3,9 @@ A collection of random projects
 
 ________
 
-**booth1.cpp** and **RestoreDivision.cpp** implement [Booth's Algorithm]
-(https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm) and the [Restoring Division]
-(https://en.wikipedia.org/wiki/Division_algorithm) algorithms from a visual perspective.  
+**booth1.cpp** and **RestoreDivision.cpp** implement [Booth's Algorithm(https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm) 
+and the [Restoring Division](https://en.wikipedia.org/wiki/Division_algorithm) algorithms 
+from a visual perspective.  
 Each program asks the user to input 16-bit signed integers via the console. The programs then iteratively step through the 
 algorithms and prints each the results of step along the way.   
 
