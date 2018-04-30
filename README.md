@@ -1,6 +1,6 @@
 # public
 A collection of random projects
-
+This code is for demonstration purposes only.
 ________
 
 **booth1.cpp** and **RestoreDivision.cpp** implement [Booth's Algorithm](https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm) and the [Restoring Division](https://en.wikipedia.org/wiki/Division_algorithm) algorithms from a visual perspective. Each program 
@@ -20,10 +20,8 @@ boundary.
 
 ________
 
-doggone-it.html and doggone-it.css are the main components of a fictional dog walking startup landing page. I'll add more 
-functionality to this over time.
+**doggone-it.html** and **doggone-it.css** are the starting components of a fictional dog walking startup landing page. I'll 
+add more functionality to this over time.
 
 ________
-
-This code is for demonstration purposes only.
 
