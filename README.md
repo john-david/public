@@ -4,11 +4,13 @@ This code is for demonstration purposes only.
 ________
 
 **booth.cpp** and **restoring_division.cpp** implement [Booth's Algorithm](https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm) and the [Restoring Division](https://en.wikipedia.org/wiki/Division_algorithm) algorithms from a visual perspective. Each program 
-asks the user to input 16-bit signed integers via the console. The programs then iteratively step through 
-the algorithms and prints each the results of step along the way.   
+asks the user to input 16-bit signed integers via the console. The programs convert the 16-bit numbers 
+into their binary representation and begin to iteratively step through the algorithms. After each step 
+the results are printed along along the way. These programs were designed to show students who might 
+be unfamiliar with how to work through these algorithms by hand exactly how every step is represented. 
 
-The C++ bitset STL library was used for these programs.  The library's basic functionality made programming the multiplication 
-and division algorithms extremely easy to implement without messy array operations.   
+The C++ bitset STL library was used for these programs.  The library's basic functionality made programming 
+the multiplication and division algorithms extremely easy to implement without messy array operations.   
 
 ________
 
