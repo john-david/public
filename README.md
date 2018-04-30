@@ -1,5 +1,5 @@
 # public
-A collection of random projects
+A collection of random projects.  
 This code is for demonstration purposes only.
 ________
 
@@ -14,8 +14,8 @@ the multiplication and division algorithms extremely easy to implement without m
 
 ________
 
-The [perceptron](https://en.wikipedia.org/wiki/Perceptron) jupyter notebook was part of a series of projects for a Machine 
-Learning class at UMSL. The notebook looks at the perceptron algortithm's decision boundary choices using a series of randomly 
+The perceptron jupyter notebook was part of a series of projects for a Machine 
+Learning class at UMSL. The notebook looks at the [perceptron](https://en.wikipedia.org/wiki/Perceptron) algortithm's decision boundary choices using a series of randomly 
 generated x/y coordinate pair data sets. The data sets vary from easily classified sets to sets that are impossible to split 
 in 2D. It compares different starting weights and whether or not the data set's order affects the algorithm's decision 
 boundary.
