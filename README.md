@@ -1,4 +1,4 @@
-# public
+# public portfolio
 A collection of random projects.  
 This code is for demonstration purposes only.
 ________
