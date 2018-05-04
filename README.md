@@ -9,9 +9,9 @@ into their binary representation and begin to iteratively step through the algor
 the results are printed to console along the way. These programs were designed to show students who might 
 be unfamiliar with how to work through these algorithms by hand exactly how every step is represented. 
 
-The C++ bitset STL library was used for these programs.  The library's basic functionality made programming 
-the multiplication and division algorithms extremely easy to develop without messy array operations. Bitwise 
-operators were used to further simplify the implementation. 
+The C++ bitset STL library was used for these programs.  The library's basic functionality in conjunction
+with bitwise operators greatly simplified the implemenation of the multiplication and division algorithms and 
+avoided messy and expensive array operations. 
 
 ________
 
