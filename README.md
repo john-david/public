@@ -10,7 +10,8 @@ the results are printed to console along the way. These programs were designed t
 be unfamiliar with how to work through these algorithms by hand exactly how every step is represented. 
 
 The C++ bitset STL library was used for these programs.  The library's basic functionality made programming 
-the multiplication and division algorithms extremely easy to implement without messy array operations.   
+the multiplication and division algorithms extremely easy to implement without messy array operations. Bitwise 
+operators were used to further simplify the implementation. 
 
 ________
 
